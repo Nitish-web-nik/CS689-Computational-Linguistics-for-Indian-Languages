@@ -1,0 +1,184 @@
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 24 Mar 2024 @ 03:52:52
+Username:Nishant
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: Auto Sugggestions are disabbled. (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\customtextbrowser.cpp)
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "C:/Users/ngw33/Desktop/02_urmilesh/project.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/ngw33/Desktop/04_aditya/project.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/ngw33/Desktop/IITB/Udaan IITB/Udaan Books/sadamTesting/project.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Starting workerThread (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Current Thread ID: 0x45dc (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Inside the workerThread (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Current Thread ID: 0x49dc (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Debug: workerThread work done! (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Resuming the main thread! (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Current Thread ID: 0x45dc (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/ngw33/Desktop/IITB/Udaan IITB/Udaan Books/sadamTesting/image.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\markRegion.cpp)
+Critical: QSettings: Failed to delete key "Software\IIT-B\OpenOCRCorrect" (Access is denied.) ()
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 24 Mar 2024 @ 03:53:22
+Username:Nishant
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/ngw33/Desktop/IITB/Udaan IITB/Udaan Books/sadamTesting/project.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Starting workerThread (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Current Thread ID: 0x3d24 (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Inside the workerThread (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Current Thread ID: 0x604 (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Warning: QObject::connect: Cannot queue arguments of type 'QList<QPersistentModelIndex>'
+(Make sure 'QList<QPersistentModelIndex>' is registered using qRegisterMetaType().) ()
+Debug: workerThread work done! (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Resuming the main thread! (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Current Thread ID: 0x3d24 (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/ngw33/Desktop/IITB/Udaan IITB/Udaan Books/sadamTesting/image.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\markRegion.cpp)
+Debug: Changes merged successfully (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\Project.cpp)
+Debug: Buffer refs/heads/master 
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\Project.cpp)
+Debug: Error 0 
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\Project.cpp)
+Debug: Error 0 
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\Project.cpp)
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 12 Apr 2024 @ 00:08:50
+Username:Nitish
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 12 Apr 2024 @ 00:10:26
+Username:Nitish
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/Nitish/Downloads/assignment1.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Some Error occurred
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\verifyset.cpp)
+Debug: "D:/computation linguistics for indian languages/Project/v4.5.2/projectXMLFormat.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/Nitish/Downloads/assignment1.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Some Error occurred
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\verifyset.cpp)
+Debug: "C:/Users/Nitish/Downloads/BOOK.XML" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Some Error occurred
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\verifyset.cpp)
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 12 Apr 2024 @ 00:28:37
+Username:Nitish
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "D:/computation linguistics for indian languages/Project/v4.5.2/projectXMLFormat.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 12 Apr 2024 @ 00:29:29
+Username:Nitish
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 12 Apr 2024 @ 23:45:40
+Username:Nitish
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: 154 154 (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: 154 154 (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Failed to open ZIP file: -1000 (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created. ()
+
+Udaan Editing Tool Application Log
+Date: 23 Apr 2024 @ 22:40:58
+Username:Nitish
+
+Application Log:
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionCheck_for_Updates_triggered(int) ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionClone_Repository() ()
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_actionIncrease_Indent_triggered(int,int) ()
+Debug: path:  "" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Warning: QObject::connect(QTextEdit, Unknown): invalid nullptr parameter ()
+Debug: "v4.5" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "v4.1" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "C:/Users/Nitish/Downloads/BOOK.XML" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Some Error occurred
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\verifyset.cpp)
+Debug: "C:/Users/Nitish/Downloads/assignment1.xml" (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\mainwindow.cpp)
+Debug: Some Error occurred
+ (C:\Users\ngw33\Desktop\IITB\Udaan IITB\leap-pe-tool\FrameWorkCode\verifyset.cpp)
+Warning: Retrying to obtain clipboard. ()
